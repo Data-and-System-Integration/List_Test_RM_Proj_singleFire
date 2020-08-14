@@ -1,4 +1,4 @@
-package com.deepika.List_Test_RM_Proj_singleFire;
+package com.deepika.list_test_rm_proj_singlefire;
 
 import java.util.*;
 
